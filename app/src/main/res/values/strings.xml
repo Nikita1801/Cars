@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Cars</string>
+    <string name="berlin">Berlin</string>
+    <string name="m">M</string>
+    <string name="bmw_x6">BMW X6</string>
+    <string name="Text">М</string>
+    <string name="_4">4</string>
+    <string name="tesla_model_x">Tesla Model X</string>
+    <string name="filters">Filters</string>
+    <string name="mini">Mini</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="economy">Economy</string>
+    <string name="compact">Compact</string>
 </resources>
